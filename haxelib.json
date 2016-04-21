@@ -1,0 +1,14 @@
+{
+	"name": "khakhatmx2d",
+	"url" : "https://github.com/varomix/khatmx",
+	"license": "MIT",
+	"tags": ["tmx", "tiled", "game"],
+	"description": "Kha Library to load Tiled tmx maps",
+	"version": "0.1.1",
+	"releasenote": "Revision some number.",
+	"contributors": ["varomix"],
+	"dependencies": {
+		"kha": ""
+	},
+	"classPath": "Sources"
+}
