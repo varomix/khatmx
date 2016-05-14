@@ -14,3 +14,5 @@ Clone into 'your_kha_project/Libraries'
 or do 'haxelib install git khatmx (repoUrl)'
 
 Add 'project.addLibrary('khatmx');' in your khafile.js
+
+![](Example_tmx/Assets/sample.jpg)
